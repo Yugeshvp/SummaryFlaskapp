@@ -16,8 +16,7 @@ in the above path we have to enter the command **activate**
 
 **Step7:** Now, use cd..\.. to come back to f_app> path like this **Example: (env) C:\Users\NEW\AppData\Roaming\Python\Python38\Scripts\Proj1\f_app>**
 
-**Step8:** Inside your system path **C:\Users\NEW\AppData\Roaming\Python\Python38\Scripts\Proj1\f_app>** paste the Static Folder and Templates folder and also paste the app.py, nltk_summarization.py and nltk_summarization2.py and all other .py extension files are there - paste all those in your folder.
-
+**Step8:** Inside your system path **C:\Users\NEW\AppData\Roaming\Python\Python38\Scripts\Proj1\f_app>** paste the Static Folder and Templates folder and also paste the app.py, nltk_summarization.py and nltk_summarization2.py and all other json and requirements.txt .py extension files are there - paste all those in your folder as it is.
 **Step9:** Install flask using **pip install flask** in that above path.
 
 **Step10:** Install the packages from requirements.txt file   **pip install -r requirements.txt**
